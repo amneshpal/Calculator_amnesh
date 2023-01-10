@@ -68,6 +68,10 @@ If you want to contact me, you can reach me through below handles.
     . 7668775454
 📁 Project structure
 
+![image](https://user-images.githubusercontent.com/88304047/211593718-502b47cc-a68c-4bab-989c-c8b47ba0184f.png)
+
+
+
 . <!DOCTYPE html>
   <html lang="en">
   <head>
@@ -179,7 +183,8 @@ If you want to contact me, you can reach me through below handles.
 	</div>
 
 	<script src="main.js"></script>
-   </body>
-   </html>
+     </body>
+    </html>
+    
 
 Show your support by 🌟 the project
