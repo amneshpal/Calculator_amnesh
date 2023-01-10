@@ -56,17 +56,18 @@ Javascript [for Logic/Working of calculator]
 Run project:
 open live server.
 
-
-
-Open your browser
-👤 Developer
+# 👤 Developer
 Amnesh pal😎
-📬 Contact
+
+
+# 📬 Contact
+
 If you want to contact me, you can reach me through below handles.
 
     . amneshpal016@gmail.com
     . 7668775454
-📁 Project structure
+    
+# 📁 Project structure
 
 ![image](https://user-images.githubusercontent.com/88304047/211593718-502b47cc-a68c-4bab-989c-c8b47ba0184f.png)
 
@@ -187,4 +188,4 @@ If you want to contact me, you can reach me through below handles.
     </html>
     
 
-Show your support by 🌟 the project
+# Show your support by 🌟 the project
